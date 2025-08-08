@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="ru">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Customized Select</title>
+
+  <link rel="stylesheet" href="styles/base.css">
+  <link rel="stylesheet" href="styles/select.css">
+
+  <script src="scripts/index.js" type="module"></script>
+</head>
+
+<body>
+
+  <!--
+
+     01) Создать на HTML, JS и CSS select, используя результаты POST-запроса к 
+     https://digma.ru/catalog/get-products-in-group/ (получив их через fetch). 
+     В запросе отправляется FormData с alias равным notebooks.
+      В select должны быть использованы имена (name) товаров в notArchive.
+     Для создания select использовать можно только input, div, span, img.
+
+    -->
+
+
+  <div class="select" role="listbox" aria-haspopup="true" aria-activedescendant="" aria-expanded="true">
+
+    <!-- <div class="select__output" tabindex="0" role="button" aria-controls="select-list">
+      Выберите значение
+    </div> -->
+
+    <dev class="select__header">
+      <input class="select__output" type="button" value="Выберите значение" disabled>
+    </dev>
+    
+    <!-- ▼ -->
+    <!-- <div id="select-list" class="select__list select__list--visible"> 
+
+         <div id="" class="select__list-option" tabindex="0" role="option" aria-selected="false">
+          <div class="option__list-option-title">
+            Product 1
+          </div>
+          <img src="" alt="" class="option__list-option-img">
+        </div>
+
+     </div> -->
+
+  </div>
+
+
+</body>
+
+</html>

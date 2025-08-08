@@ -1,0 +1,4573 @@
+{
+    "notArchive": {
+        "1986115": {
+            "itemId": 1986115,
+            "digmaId": 23036,
+            "name": "EVE C4800",
+            "partnum": "DN14CN-8CXW01",
+            "shortName": "Ноутбук Digma EVE C4800 Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 14\" IPS FHD (1920x1080) Windows 11 Pro dk.grey WiFi BT Cam 4800mAh (DN14CN-8CXW01)",
+            "fullName": "Ноутбук Digma EVE C4800 Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 14\" IPS FHD (1920x1080) Windows 11 Pro dk.grey WiFi BT Cam 4800mAh (DN14CN-8CXW01)",
+            "anons": "Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 14\" IPS FHD (1920x1080) Windows 11 Pro dk.grey WiFi BT Cam 4800mAh (DN14CN-8CXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1986115/1986115_v01_m.webp",
+            "alias": "eve-c4800-1986115",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1986115",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE C4800"
+            },
+            "model": "C4800",
+            "url": "/catalog/notebook/notebooks/eve-c4800-1986115/",
+            "filters": {
+                "162": {
+                    "id": 162,
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": null,
+                    "multi": false
+                },
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 14,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "темно-серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "162": {
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "sorting": 37
+                },
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1986115",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Celeron N4020 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1986115",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1986115",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1986115",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1986115",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1901560": {
+            "itemId": 1901560,
+            "digmaId": 23047,
+            "name": "EVE 15 C423",
+            "partnum": "DN15N5-8CXW04",
+            "shortName": "Ноутбук Digma EVE 15 C423 Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey space WiFi BT Cam 5000mAh (DN15N5-8CXW04)",
+            "fullName": "Ноутбук Digma EVE 15 C423 Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey space WiFi BT Cam 5000mAh (DN15N5-8CXW04)",
+            "anons": "Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey space WiFi BT Cam 5000mAh (DN15N5-8CXW04)",
+            "photo": "https://static.digma.ru/catalog-photos/190/1901560/1901560_v01_m.webp",
+            "alias": "eve-15-c423-1901560",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1901560",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE 15 C423"
+            },
+            "model": "15 C423",
+            "url": "/catalog/notebook/notebooks/eve-15-c423-1901560/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "темно-серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ LPDDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1901560",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Pentium Silver N5030 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1901560",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1901560",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ LPDDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1901560",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1901560",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1905996": {
+            "itemId": 1905996,
+            "digmaId": 23061,
+            "name": "EVE C5403",
+            "partnum": "DN15CN-4BXW02",
+            "shortName": "Ноутбук Digma EVE C5403 Celeron N4020 4Gb SSD128Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15CN-4BXW02)",
+            "fullName": "Ноутбук Digma EVE C5403 Celeron N4020 4Gb SSD128Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15CN-4BXW02)",
+            "anons": "Celeron N4020 4Gb SSD128Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15CN-4BXW02)",
+            "photo": "https://static.digma.ru/catalog-photos/190/1905996/1905996_v01_m.webp",
+            "alias": "eve-c5403-1905996",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1905996",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE C5403"
+            },
+            "model": "C5403",
+            "url": "/catalog/notebook/notebooks/eve-c5403-1905996/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "4 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "3",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "128 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "4ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "128 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1905996",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Celeron N4020 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1905996",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1905996",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "4ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1905996",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "128 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1905996",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1905997": {
+            "itemId": 1905997,
+            "digmaId": 23062,
+            "name": "EVE C5801",
+            "partnum": "DN15CN-8CXW03",
+            "shortName": "Ноутбук Digma EVE C5801 Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15CN-8CXW03)",
+            "fullName": "Ноутбук Digma EVE C5801 Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15CN-8CXW03)",
+            "anons": "Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15CN-8CXW03)",
+            "photo": "https://static.digma.ru/catalog-photos/190/1905997/1905997_v01_m.webp",
+            "alias": "eve-c5801-1905997",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1905997",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE C5801"
+            },
+            "model": "C5801",
+            "url": "/catalog/notebook/notebooks/eve-c5801-1905997/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1905997",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Celeron N4020 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1905997",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1905997",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1905997",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1905997",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1986116": {
+            "itemId": 1986116,
+            "digmaId": 23063,
+            "name": "EVE P4850",
+            "partnum": "DN14N5-8CXW01",
+            "shortName": "Ноутбук Digma EVE P4850 Pentium N5030 8Gb SSD256Gb Intel UHD Graphics 605 14\" IPS FHD (1920x1080) Windows 11 Pro dk.grey WiFi BT Cam 4800mAh (DN14N5-8CXW01)",
+            "fullName": "Ноутбук Digma EVE P4850 Pentium N5030 8Gb SSD256Gb Intel UHD Graphics 605 14\" IPS FHD (1920x1080) Windows 11 Pro dk.grey WiFi BT Cam 4800mAh (DN14N5-8CXW01)",
+            "anons": "Pentium N5030 8Gb SSD256Gb Intel UHD Graphics 605 14\" IPS FHD (1920x1080) Windows 11 Pro dk.grey WiFi BT Cam 4800mAh (DN14N5-8CXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1986116/1986116_v01_m.webp",
+            "alias": "eve-p4850-1986116",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1986116",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE P4850"
+            },
+            "model": "P4850",
+            "url": "/catalog/notebook/notebooks/eve-p4850-1986116/",
+            "filters": {
+                "162": {
+                    "id": 162,
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": null,
+                    "multi": false
+                },
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 14,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "темно-серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "162": {
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "sorting": 37
+                },
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1986116",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Pentium N5030 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1986116",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1986116",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1986116",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1986116",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1905998": {
+            "itemId": 1905998,
+            "digmaId": 23064,
+            "name": "EVE P5416",
+            "partnum": "DN15N5-4BXW01",
+            "shortName": "Ноутбук Digma EVE P5416 Pentium Silver N5030 4Gb SSD128Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15N5-4BXW01)",
+            "fullName": "Ноутбук Digma EVE P5416 Pentium Silver N5030 4Gb SSD128Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15N5-4BXW01)",
+            "anons": "Pentium Silver N5030 4Gb SSD128Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15N5-4BXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/190/1905998/1905998_v01_m.webp",
+            "alias": "eve-p5416-1905998",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1905998",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE P5416"
+            },
+            "model": "P5416",
+            "url": "/catalog/notebook/notebooks/eve-p5416-1905998/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "4 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "3",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "128 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "4ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "128 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1905998",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Pentium Silver N5030 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1905998",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1905998",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "4ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1905998",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "128 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1905998",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1906000": {
+            "itemId": 1906000,
+            "digmaId": 23065,
+            "name": "EVE P5851",
+            "partnum": "DN15N5-8CXW05",
+            "shortName": "Ноутбук Digma EVE P5851 Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15N5-8CXW05)",
+            "fullName": "Ноутбук Digma EVE P5851 Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15N5-8CXW05)",
+            "anons": "Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5000mAh (DN15N5-8CXW05)",
+            "photo": "https://static.digma.ru/catalog-photos/190/1906000/1906000_v01_m.webp",
+            "alias": "eve-p5851-1906000",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1906000",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE P5851"
+            },
+            "model": "P5851",
+            "url": "/catalog/notebook/notebooks/eve-p5851-1906000/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1906000",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Pentium Silver N5030 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1906000",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1906000",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1906000",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1906000",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1896034": {
+            "itemId": 1896034,
+            "digmaId": 23066,
+            "name": "NB EVE C5800",
+            "partnum": "DN15CN-8CXW02",
+            "shortName": "Ноутбук Digma EVE C5800 Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 5000mAh (DN15CN-8CXW02)",
+            "fullName": "Ноутбук Digma EVE C5800 Celeron N4020 8Gb SSD256Gb Intel UHD Graphics 600 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 5000mAh (DN15CN-8CXW02)",
+            "anons": "",
+            "photo": "https://static.digma.ru/catalog-photos/189/1896034/1896034_v01_m.webp",
+            "alias": "nb-eve-c5800-1896034",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1896034",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma NB EVE C5800"
+            },
+            "model": "C5800",
+            "url": "/catalog/notebook/notebooks/nb-eve-c5800-1896034/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "темно-серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1896034",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Celeron N4020 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1896034",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1896034",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1896034",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1896034",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1896048": {
+            "itemId": 1896048,
+            "digmaId": 23067,
+            "name": "NB EVE P5850",
+            "partnum": "DN15N5-8CXW03",
+            "shortName": "Ноутбук Digma EVE P5850 Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 5000mAh (DN15N5-8CXW03)",
+            "fullName": "Ноутбук Digma EVE P5850 Pentium Silver N5030 8Gb SSD256Gb Intel UHD Graphics 605 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 5000mAh (DN15N5-8CXW03)",
+            "anons": "",
+            "photo": "https://static.digma.ru/catalog-photos/189/1896048/1896048_v01_m.webp",
+            "alias": "nb-eve-p5850-1896048",
+            "sorting": 0,
+            "date": "2024-01-24 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1896048",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma NB EVE P5850"
+            },
+            "model": "P5850",
+            "url": "/catalog/notebook/notebooks/nb-eve-p5850-1896048/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "темно-серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1896048",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Pentium Silver N5030 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1896048",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1896048",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1896048",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1896048",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "1916378": {
+            "itemId": 1916378,
+            "digmaId": 25691,
+            "name": "EVE C4403",
+            "partnum": "DN14CN-4BXW04",
+            "shortName": "Ноутбук Digma EVE C4403 Celeron N4000 4Gb eMMC128Gb Intel UHD Graphics 600 14\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 4800mAh (DN14CN-4BXW04)",
+            "fullName": "Ноутбук Digma EVE C4403 Celeron N4000 4Gb eMMC128Gb Intel UHD Graphics 600 14\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 4800mAh (DN14CN-4BXW04)",
+            "anons": "Celeron N4000 4Gb eMMC128Gb Intel UHD Graphics 600 14\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 4800mAh (DN14CN-4BXW04)",
+            "photo": "https://static.digma.ru/catalog-photos/191/1916378/1916378_v01_m.webp",
+            "alias": "eve-c4403-1916378",
+            "sorting": 0,
+            "date": "2024-05-08 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1916378",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE C4403"
+            },
+            "model": "C4403",
+            "url": "/catalog/notebook/notebooks/eve-c4403-1916378/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 14,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "4 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "3",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "4ГБ",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1916378",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Celeron N4000 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1916378",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1916378",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "4ГБ",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1916378",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": false
+        },
+        "2002630": {
+            "itemId": 2002630,
+            "digmaId": 25820,
+            "name": "EVE A5820",
+            "partnum": "DN15R3-ADXW01",
+            "shortName": "Ноутбук Digma EVE A5820 Ryzen 3 3200U 16Gb SSD512Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-ADXW01)",
+            "fullName": "Ноутбук Digma EVE A5820 Ryzen 3 3200U 16Gb SSD512Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-ADXW01)",
+            "anons": "Ryzen 3 3200U 16Gb SSD512Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-ADXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/200/2002630/2002630_v01_m.webp",
+            "alias": "eve-a5820-2002630",
+            "sorting": 0,
+            "date": "2024-07-01 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=2002630",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE A5820"
+            },
+            "model": "A5820",
+            "url": "/catalog/notebook/notebooks/eve-a5820-2002630/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "16 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "черный",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "16ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "512 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "черный",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "2002630",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "AMD Ryzen 3 3200U 2.6ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "2002630",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "2002630",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "16ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "2002630",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "2002630",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "1988565": {
+            "itemId": 1988565,
+            "digmaId": 25823,
+            "name": "EVE C4801",
+            "partnum": "DN14N1-8CXW01",
+            "shortName": "Ноутбук Digma EVE C4801 N-series N100 8Gb SSD256Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N1-8CXW01)",
+            "fullName": "Ноутбук Digma EVE C4801 N-series N100 8Gb SSD256Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N1-8CXW01)",
+            "anons": "N-series N100 8Gb SSD256Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N1-8CXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1988565/1988565_v01_m.webp",
+            "alias": "eve-c4801-1988565",
+            "sorting": 0,
+            "date": "2024-07-01 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1988565",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE C4801"
+            },
+            "model": "C4801",
+            "url": "/catalog/notebook/notebooks/eve-c4801-1988565/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 14,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1988565",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel N-series N100 0.8ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1988565",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1988565",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1988565",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1988565",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "1988566": {
+            "itemId": 1988566,
+            "digmaId": 25824,
+            "name": "EVE P4851",
+            "partnum": "DN14N2-8CXW01",
+            "shortName": "Ноутбук Digma EVE P4851 N-series N200 8Gb SSD256Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N2-8CXW01)",
+            "fullName": "Ноутбук Digma EVE P4851 N-series N200 8Gb SSD256Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N2-8CXW01)",
+            "anons": "N-series N200 8Gb SSD256Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N2-8CXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1988566/1988566_v01_m.webp",
+            "alias": "eve-p4851-1988566",
+            "sorting": 0,
+            "date": "2024-07-01 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1988566",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE P4851"
+            },
+            "model": "P4851",
+            "url": "/catalog/notebook/notebooks/eve-p4851-1988566/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 14,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1988566",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel N-series N200 1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1988566",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1988566",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1988566",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1988566",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "1988570": {
+            "itemId": 1988570,
+            "digmaId": 25825,
+            "name": "EVE P5852",
+            "partnum": "DN15N2-ADXW01",
+            "shortName": "Ноутбук Digma EVE P5852 N-series N200 16Gb SSD512Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N2-ADXW01)",
+            "fullName": "Ноутбук Digma EVE P5852 N-series N200 16Gb SSD512Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N2-ADXW01)",
+            "anons": "N-series N200 16Gb SSD512Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N2-ADXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1988570/1988570_v01_m.webp",
+            "alias": "eve-p5852-1988570",
+            "sorting": 0,
+            "date": "2024-07-01 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1988570",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE P5852"
+            },
+            "model": "P5852",
+            "url": "/catalog/notebook/notebooks/eve-p5852-1988570/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "16 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "16ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "512 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1988570",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel N-series N200 1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1988570",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1988570",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "16ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1988570",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1988570",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "1988567": {
+            "itemId": 1988567,
+            "digmaId": 25962,
+            "name": "EVE P4851",
+            "partnum": "DN14N2-ADXW01",
+            "shortName": "Ноутбук Digma EVE P4851 N-series N200 16Gb SSD512Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N2-ADXW01)",
+            "fullName": "Ноутбук Digma EVE P4851 N-series N200 16Gb SSD512Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N2-ADXW01)",
+            "anons": "N-series N200 16Gb SSD512Gb Intel UHD Graphics 14\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN14N2-ADXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1988567/1988567_v01_m.webp",
+            "alias": "eve-p4851-1988567",
+            "sorting": 0,
+            "date": "2024-07-18 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1988567",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE P4851"
+            },
+            "model": "P4851",
+            "url": "/catalog/notebook/notebooks/eve-p4851-1988567/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 14,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "16 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "16ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "512 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1988567",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel N-series N200 1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1988567",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "14\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1988567",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "16ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1988567",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1988567",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "1988569": {
+            "itemId": 1988569,
+            "digmaId": 25963,
+            "name": "EVE P5852",
+            "partnum": "DN15N2-8CXW01",
+            "shortName": "Ноутбук Digma EVE P5852 N-series N200 8Gb SSD256Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N2-8CXW01)",
+            "fullName": "Ноутбук Digma EVE P5852 N-series N200 8Gb SSD256Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N2-8CXW01)",
+            "anons": "N-series N200 8Gb SSD256Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N2-8CXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1988569/1988569_v01_m.webp",
+            "alias": "eve-p5852-1988569",
+            "sorting": 0,
+            "date": "2024-07-18 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1988569",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE P5852"
+            },
+            "model": "P5852",
+            "url": "/catalog/notebook/notebooks/eve-p5852-1988569/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1988569",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel N-series N200 1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1988569",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1988569",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1988569",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1988569",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "2002629": {
+            "itemId": 2002629,
+            "digmaId": 25964,
+            "name": "EVE A5820",
+            "partnum": "DN15R3-8DXW03",
+            "shortName": "Ноутбук Digma EVE A5820 Ryzen 3 3200U 8Gb SSD512Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-8DXW03)",
+            "fullName": "Ноутбук Digma EVE A5820 Ryzen 3 3200U 8Gb SSD512Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-8DXW03)",
+            "anons": "Ryzen 3 3200U 8Gb SSD512Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-8DXW03)",
+            "photo": "https://static.digma.ru/catalog-photos/200/2002629/2002629_v01_m.webp",
+            "alias": "eve-a5820-2002629",
+            "sorting": 0,
+            "date": "2024-07-18 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=2002629",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE A5820"
+            },
+            "model": "A5820",
+            "url": "/catalog/notebook/notebooks/eve-a5820-2002629/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "черный",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "512 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "черный",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "2002629",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "AMD Ryzen 3 3200U 2.6ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "2002629",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "2002629",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "2002629",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "2002629",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "2002628": {
+            "itemId": 2002628,
+            "digmaId": 25965,
+            "name": "EVE A5820",
+            "partnum": "DN15R3-8CXW02",
+            "shortName": "Ноутбук Digma EVE A5820 Ryzen 3 3200U 8Gb SSD256Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-8CXW02)",
+            "fullName": "Ноутбук Digma EVE A5820 Ryzen 3 3200U 8Gb SSD256Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-8CXW02)",
+            "anons": "Ryzen 3 3200U 8Gb SSD256Gb AMD Radeon Vega 3 15.6\" IPS FHD (1920x1080) Windows 11 Pro black WiFi BT Cam 4500mAh (DN15R3-8CXW02)",
+            "photo": "https://static.digma.ru/catalog-photos/200/2002628/2002628_v01_m.webp",
+            "alias": "eve-a5820-2002628",
+            "sorting": 0,
+            "date": "2024-07-18 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=2002628",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE A5820"
+            },
+            "model": "A5820",
+            "url": "/catalog/notebook/notebooks/eve-a5820-2002628/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "черный",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "черный",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "2002628",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "AMD Ryzen 3 3200U 2.6ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "2002628",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "2002628",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR4 2400МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "2002628",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "2002628",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "1988568": {
+            "itemId": 1988568,
+            "digmaId": 25966,
+            "name": "EVE C5802",
+            "partnum": "DN15N1-8CXW01",
+            "shortName": "Ноутбук Digma EVE C5802 N-series N100 8Gb SSD256Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N1-8CXW01)",
+            "fullName": "Ноутбук Digma EVE C5802 N-series N100 8Gb SSD256Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N1-8CXW01)",
+            "anons": "N-series N100 8Gb SSD256Gb Intel UHD Graphics 15.6\" IPS FHD (1920x1080) Windows 11 Pro silver WiFi BT Cam 5900mAh (DN15N1-8CXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/198/1988568/1988568_v01_m.webp",
+            "alias": "eve-c5802-1988568",
+            "sorting": 0,
+            "date": "2024-07-18 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=1988568",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE C5802"
+            },
+            "model": "C5802",
+            "url": "/catalog/notebook/notebooks/eve-c5802-1988568/",
+            "filters": {
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серебристый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серебристый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "1988568",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel N-series N100 0.8ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "1988568",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "1988568",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ LPDDR5 4800МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "1988568",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "1988568",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": true,
+            "soon": false
+        },
+        "2029338": {
+            "itemId": 2029338,
+            "digmaId": 27238,
+            "name": "EVE i5980",
+            "partnum": "DN15CM-ADXW01",
+            "shortName": "Ноутбук Digma EVE i5980 Core M3 8100Y 16Gb SSD512Gb Intel UHD Graphics 615 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 5000mAh (DN15CM-ADXW01)",
+            "fullName": "Ноутбук Digma EVE i5980 Core M3 8100Y 16Gb SSD512Gb Intel UHD Graphics 615 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 5000mAh (DN15CM-ADXW01)",
+            "anons": "Core M3 8100Y 16Gb SSD512Gb Intel UHD Graphics 615 15.6\" IPS FHD (1920x1080) Windows 11 Pro grey WiFi BT Cam 5000mAh (DN15CM-ADXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/202/2029338/2029338_v01_m.webp",
+            "alias": "eve-i5980-2029338",
+            "sorting": 0,
+            "date": "2025-02-05 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=2029338",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE i5980"
+            },
+            "model": "i5980",
+            "url": "/catalog/notebook/notebooks/eve-i5980-2029338/",
+            "filters": {
+                "100": {
+                    "id": 100,
+                    "name": "Модель",
+                    "value": "EVE",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "2",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 15.5999999999999996447286321199499070644378662109375,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false,
+                    "step": null
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "16 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "162": {
+                    "id": 162,
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": null,
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "100": {
+                    "name": "Модель",
+                    "value": "i5980",
+                    "measure": null,
+                    "sorting": 4
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "двухъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1080",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "16ГБ DDR3",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "512 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "162": {
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "sorting": 37
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "2029338",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel Core M3 8100Y 1.1ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "2029338",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "15.6\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "2029338",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "16ГБ DDR3",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "2029338",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "512 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "2029338",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": true
+        },
+        "2053174": {
+            "itemId": 2053174,
+            "digmaId": 27239,
+            "name": "EVE C5805",
+            "partnum": "DN16N1-8CXW01",
+            "shortName": "Ноутбук Digma EVE C5805 N100 8Gb SSD256Gb Intel UHD Graphics 16\" IPS WUXGA (1920x1200) Windows 11 Pro dk.grey WiFi BT Cam 6000mAh (DN16N1-8CXW01)",
+            "fullName": "Ноутбук Digma EVE C5805 N100 8Gb SSD256Gb Intel UHD Graphics 16\" IPS WUXGA (1920x1200) Windows 11 Pro dk.grey WiFi BT Cam 6000mAh (DN16N1-8CXW01)",
+            "anons": "N100 8Gb SSD256Gb Intel UHD Graphics 16\" IPS WUXGA (1920x1200) Windows 11 Pro dk.grey WiFi BT Cam 6000mAh (DN16N1-8CXW01)",
+            "photo": "https://static.digma.ru/catalog-photos/205/2053174/2053174_v01_m.webp",
+            "alias": "eve-c5805-2053174",
+            "sorting": 0,
+            "date": "2025-02-05 00:00:00.000",
+            "description": "",
+            "group": "Ноутбуки",
+            "idGroup": 8552,
+            "aliasGroup": "notebooks",
+            "urlGroup": "/catalog/notebook/notebooks/",
+            "linksPartners": {
+                "citilink": "https://www.citilink.ru/search/?text=2053174",
+                "яндекс.маркет": "https://market.yandex.ru/search?text=Digma EVE C5805"
+            },
+            "model": "C5805",
+            "url": "/catalog/notebook/notebooks/eve-c5805-2053174/",
+            "filters": {
+                "100": {
+                    "id": 100,
+                    "name": "Модель",
+                    "value": "EVE",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "4649": {
+                    "id": 4649,
+                    "name": "Количество ядер",
+                    "value": "4",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "150": {
+                    "id": 150,
+                    "name": "Диагональ экрана",
+                    "value": 16,
+                    "measure": "\"",
+                    "type": "slider",
+                    "sorting": "0",
+                    "sortingFilterValue": null,
+                    "multi": false,
+                    "step": null
+                },
+                "13719": {
+                    "id": 13719,
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500286": {
+                    "id": 500286,
+                    "name": "Разрешение экрана",
+                    "value": "1920x1200",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "5",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "500288": {
+                    "id": 500288,
+                    "name": "Объем оперативной памяти",
+                    "value": "8 ГБ",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "2",
+                    "multi": false
+                },
+                "1801": {
+                    "id": 1801,
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": "1",
+                    "multi": false
+                },
+                "162": {
+                    "id": 162,
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "0",
+                    "sortingFilterValue": null,
+                    "multi": false
+                },
+                "168": {
+                    "id": 168,
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "120",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                },
+                "173": {
+                    "id": 173,
+                    "name": "Цвет",
+                    "value": "темно-серый",
+                    "measure": null,
+                    "type": "checkbox",
+                    "sorting": "10",
+                    "sortingFilterValue": "0",
+                    "multi": false
+                }
+            },
+            "mainProperties": {
+                "100": {
+                    "name": "Модель",
+                    "value": "C5805",
+                    "measure": null,
+                    "sorting": 4
+                },
+                "4649": {
+                    "name": "Количество ядер процессора",
+                    "value": "четырехъядерный",
+                    "measure": null,
+                    "sorting": 10
+                },
+                "150": {
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "16 дюймов",
+                    "measure": "\"",
+                    "sorting": 26
+                },
+                "13719": {
+                    "name": "Тип матрицы",
+                    "value": "IPS",
+                    "measure": null,
+                    "sorting": 28
+                },
+                "500286": {
+                    "name": "Разрешение",
+                    "value": "1920x1200",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "500288": {
+                    "name": "Оперативная память",
+                    "value": "8ГБ DDR5 4800МГц",
+                    "measure": null,
+                    "sorting": 999
+                },
+                "1801": {
+                    "name": "Объем SSD",
+                    "value": "256 Гб",
+                    "measure": "ГБ",
+                    "sorting": 14
+                },
+                "162": {
+                    "name": "Операционная система",
+                    "value": "Windows 11",
+                    "measure": null,
+                    "sorting": 37
+                },
+                "168": {
+                    "name": "Веб-камера",
+                    "value": "Да",
+                    "measure": null,
+                    "sorting": 55
+                },
+                "173": {
+                    "name": "Цветовое решение",
+                    "value": "серый",
+                    "measure": null,
+                    "sorting": 56
+                }
+            },
+            "shortCharacteristics": [
+                {
+                    "itemId": "2053174",
+                    "groupId": "8552",
+                    "propertyId": "500287",
+                    "name": "Процессор ",
+                    "value": "Intel N100 0.8ГГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Процессор"
+                },
+                {
+                    "itemId": "2053174",
+                    "groupId": "8552",
+                    "propertyId": "150",
+                    "name": "Диагональ экрана в дюймах",
+                    "value": "16\"",
+                    "measure": "\"",
+                    "sorting": "26",
+                    "nameSection": "Экран"
+                },
+                {
+                    "itemId": "2053174",
+                    "groupId": "8552",
+                    "propertyId": "500288",
+                    "name": "Оперативная память ",
+                    "value": "8ГБ DDR5 4800МГц",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Оперативная память"
+                },
+                {
+                    "itemId": "2053174",
+                    "groupId": "8552",
+                    "propertyId": "1801",
+                    "name": "Объем SSD",
+                    "value": "256 ГБ",
+                    "measure": "ГБ",
+                    "sorting": "14",
+                    "nameSection": "Устройства хранения данных"
+                },
+                {
+                    "itemId": "2053174",
+                    "groupId": "8552",
+                    "propertyId": "500290",
+                    "name": "Операционная система ноутбука",
+                    "value": "Windows 11 Pro",
+                    "measure": null,
+                    "sorting": "999",
+                    "nameSection": "Операционная система"
+                }
+            ],
+            "rate": 0,
+            "price": null,
+            "isSmartHome": false,
+            "archive": false,
+            "novelty": false,
+            "soon": true
+        }
+    }
+}
