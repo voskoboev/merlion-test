@@ -12,10 +12,6 @@
   outline-offset: 4px;
 }
 
-input[type="button"] {
-  background-color: transparent;
-}
-
 body {
   font-family: Ubuntu, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;

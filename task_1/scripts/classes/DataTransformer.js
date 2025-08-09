@@ -5,7 +5,7 @@ class DataTransformer {
     this.#initialData = initialData;
   }
 
-  getFromObjectToArrayTransformedData() {
+  getObjectToArrayTransformedData() {
     const array = [];
 
     for (const key in this.#initialData) {

@@ -7,9 +7,9 @@
 // }
 
 class DataProvider {
-  #data;
   #path;
   #options;
+  #data;
 
   constructor(path, options = {}) {
     this.#path = path;
@@ -26,7 +26,7 @@ class DataProvider {
 
       this.#data = await res.json();
 
-      await new Promise((resolve) => setTimeout(resolve, 1500));
+      await new Promise((resolve) => setTimeout(resolve, 700));
 
       return this.#data;
     } catch (err) {

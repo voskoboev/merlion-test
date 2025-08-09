@@ -1,26 +1,28 @@
-class SelectManager {
+class SelectManager extends EventTarget {
   #selectListCssId = "select-list";
   #selectListCssClass = "select__list";
-  #selectListOptionCssClass = "select__list-option";
-  #selectListOptionImageCssClass = "select__list-option-img";
-  #optionsListActivationCssClass = "select__list--active";
+  #selectListOptionCssClass = "select__option";
+  #selectListOptionImageCssClass = "select__option-img";
   #selectHeaderActivationClass = "select__header--active";
-  #selectOutputCssClassSelector = ".select__output";
+  #optionsListActivationCssClass = "select__list--active";
   #selectHeaderCssClassSelector = ".select__header";
+  #selectOutputCssClassSelector = ".select__output";
   #selectListOptionCssClassSelector = `.${this.#selectListOptionCssClass}`;
   #selectListCssClassSelector = `.${this.#selectListCssClass}`;
-  #optionsListKeyDownEventKey = "Enter";
+  #selectOptionsListKeyDownEventKey = "Enter";
   #select;
   #selectHeader;
   #selectOutput;
   #selectList;
   #selectListOptions;
-  #optionsArray;
+  #selectOptionsArray;
   #selectOptionData;
 
-  constructor(selectElementSelector, optionsArray = []) {
+  constructor(selectElementSelector, selectOptionsArray = []) {
+    super();
+
     this.#select = document.querySelector(selectElementSelector);
-    this.#optionsArray = optionsArray;
+    this.#selectOptionsArray = selectOptionsArray;
 
     this.#selectHeader = this.#select.querySelector(
       this.#selectHeaderCssClassSelector
@@ -37,32 +39,23 @@ class SelectManager {
       this.#selectListOptionCssClassSelector
     );
 
-    this.#selectOutput.addEventListener(
-      "click",
-      this.#handleToggleOptionsListActivationOnClick
-    );
-
+    this.#selectOutput.addEventListener("click", this.#toggleOptionsList);
     this.#selectOutput.addEventListener(
       "keydown",
-      this.#handleToggleOptionsListActivationOnKeyDown
+      this.#toggleOptionsListOnKeyDown
     );
 
-    this.#selectListOptions.forEach((el) => {
-      el.addEventListener("click", this.#handleOptionSelectionOnClick);
-      el.addEventListener("keydown", this.#handleOptionSelectionOnKeyDown);
-    });
+    this.#selectList.addEventListener("click", this.#chooseSpecificOption);
+    this.#selectList.addEventListener(
+      "keydown",
+      this.#chooseSpecificOptionOnKeyDown
+    );
   }
 
-  getSelectedOptionData = () => {
-    return this.#selectOptionData;
-  };
-
   #findSelectedOptionData = (id) => {
-    this.#selectOptionData = this.#optionsArray.find(
+    this.#selectOptionData = this.#selectOptionsArray.find(
       (option) => option.itemId === parseInt(id)
     );
-
-    console.log("selectOptionData", this.#selectOptionData);
   };
 
   #enableSelectOutput = () => {
@@ -73,7 +66,7 @@ class SelectManager {
     const selectListElement = document.createElement("div");
     selectListElement.id = this.#selectListCssId;
     selectListElement.classList.add(this.#selectListCssClass);
-    selectListElement.classList.add(this.#optionsListActivationCssClass);
+    selectListElement.role = "listbox";
 
     this.#select.append(selectListElement);
 
@@ -81,15 +74,13 @@ class SelectManager {
       this.#selectListCssClassSelector
     );
 
-    console.log("create select");
-
-    this.#optionsArray.forEach((option) => {
+    this.#selectOptionsArray.forEach((option) => {
       const optionElement = document.createElement("div");
+      optionElement.id = option.itemId;
       optionElement.tabIndex = 0;
-      optionElement.ariaSelected = false;
       optionElement.classList.add(this.#selectListOptionCssClass);
       optionElement.role = "option";
-      optionElement.id = option.itemId;
+      optionElement.ariaSelected = false;
 
       const titleElement = document.createElement("span");
       titleElement.textContent = option.fullName;
@@ -98,61 +89,70 @@ class SelectManager {
       const imgElement = document.createElement("img");
       imgElement.classList.add(this.#selectListOptionImageCssClass);
       imgElement.src = option.photo;
-      imgElement.decoding = "async";
       imgElement.alt = option.fullName;
+      imgElement.decoding = "async";
       optionElement.append(imgElement);
 
       this.#selectList.append(optionElement);
     });
   };
 
-  #toggleOptionsListActivation = () => {
-    this.#select.ariaExpanded = this.#selectList.classList.toggle(
-      this.#optionsListActivationCssClass
-    );
-    this.#selectHeader.classList.toggle(this.#selectHeaderActivationClass);
+  #generateSelectEvent = () => {
+    const changeEvent = new CustomEvent("change", {
+      detail: this.#selectOptionData,
+    });
+    this.dispatchEvent(changeEvent);
   };
 
-  #changeSelectOptionsAriaSelectedToFalse = () => {
+  #changeOptionsAriaSelectedToFalse = () => {
     this.#selectListOptions.forEach((el) => {
       el.ariaSelected = false;
     });
   };
 
-  #selectInvidualOption = (ev) => {
-    this.#changeSelectOptionsAriaSelectedToFalse();
-    this.#selectOutput.value = ev.currentTarget.textContent;
-    this.#select.setAttribute("aria-activedescendant", ev.currentTarget.id);
-    ev.currentTarget.ariaSelected = true;
-    this.#findSelectedOptionData(ev.currentTarget.id);
-    this.#toggleOptionsListActivation();
+  #toggleOptionsList = () => {
+    this.#selectOutput.ariaExpanded = this.#selectList.classList.toggle(
+      this.#optionsListActivationCssClass
+    );
+    this.#selectHeader.classList.toggle(this.#selectHeaderActivationClass);
   };
 
-  #handleToggleOptionsListActivationOnClick = () => {
-    this.#toggleOptionsListActivation();
-  };
-
-  #handleToggleOptionsListActivationOnKeyDown = (ev) => {
+  #toggleOptionsListOnKeyDown = (ev) => {
     if (
       document.activeElement === this.#selectOutput &&
-      ev.key === this.#optionsListKeyDownEventKey
+      ev.key === this.#selectOptionsListKeyDownEventKey
     ) {
-      this.#toggleOptionsListActivation();
+      ev.preventDefault();
+      this.#toggleOptionsList();
     }
   };
 
-  #handleOptionSelectionOnClick = (ev) => {
-    this.#selectInvidualOption(ev);
+  #chooseSpecificOption = (ev) => {
+    const optionElement = ev.target.closest(
+      this.#selectListOptionCssClassSelector
+    );
+
+    if (!optionElement) {
+      return;
+    }
+
+    this.#findSelectedOptionData(optionElement.id);
+    this.#selectOutput.value = this.#selectOptionData.fullName;
+    this.#generateSelectEvent();
+    this.#changeOptionsAriaSelectedToFalse();
+    optionElement.ariaSelected = true;
+    this.#selectOutput.setAttribute("aria-activedescendant", optionElement.id);
+    this.#toggleOptionsList();
   };
 
-  #handleOptionSelectionOnKeyDown = (ev) => {
-    if (
-      document.activeElement === ev.target &&
-      ev.key === this.#optionsListKeyDownEventKey
-    ) {
-      this.#selectInvidualOption(ev);
-      this.#selectOutput.focus();
+  #chooseSpecificOptionOnKeyDown = (ev) => {
+    if (ev.key !== this.#selectOptionsListKeyDownEventKey) {
+      return;
     }
+
+    ev.preventDefault();
+    this.#chooseSpecificOption(ev);
+    this.#selectOutput.focus();
   };
 }
 
