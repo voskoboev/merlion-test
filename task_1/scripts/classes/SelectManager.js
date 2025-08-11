@@ -77,13 +77,14 @@ class SelectManager extends EventTarget {
     this.#selectOptionsArray.forEach((option) => {
       const optionElement = document.createElement("div");
       optionElement.id = option.itemId;
-      optionElement.tabIndex = 0;
       optionElement.classList.add(this.#selectListOptionCssClass);
+      optionElement.tabIndex = 0;
       optionElement.role = "option";
       optionElement.ariaSelected = false;
 
       const titleElement = document.createElement("span");
       titleElement.textContent = option.fullName;
+
       optionElement.append(titleElement);
 
       const imgElement = document.createElement("img");

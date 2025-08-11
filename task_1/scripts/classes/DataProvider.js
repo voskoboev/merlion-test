@@ -1,11 +1,3 @@
-// const fd = new FormData();
-// fd.append("alias", "notebooks");
-// "https://digma.ru/catalog/get-products-in-group/",
-// {
-// method: "POST",
-// body: fd,
-// }
-
 class DataProvider {
   #path;
   #options;

@@ -7,7 +7,7 @@
   font-size: 18px;
   cursor: pointer;
 
-  @media (width < 576px) {
+  @media (width <= 576px) {
     & {
       font-size: 16px;
     }
@@ -71,8 +71,10 @@
     padding: 14px;
     border-bottom: 1px solid var(--color-outline);
 
-    &:hover {
-      background-color: var(--color-bg);
+    @media (any-hover: hover) {
+      &:hover {
+        background-color: var(--color-bg);
+      }
     }
 
     &:first-child {
@@ -94,7 +96,7 @@
     margin-left: auto;
     object-fit: contain;
 
-    @media (width < 576px) {
+    @media (width <= 576px) {
       & {
         width: 50px;
         height: 50px;
