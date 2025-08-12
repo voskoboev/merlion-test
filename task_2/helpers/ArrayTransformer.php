@@ -23,27 +23,27 @@ class ArrayTransformer implements ArrayTransformerInterface
     return $this->filtersArray;
   }
 
-  public function aggregateItemsProperties(array $propNames, callable $setGroups): void
+  public function aggregateItemsFields(array $fieldNames, callable $setGroups): void
   {
     foreach ($this->array as $item) {
+      $nameField = $fieldNames['name'];
+      $aspectField = $fieldNames['aspect'];
+      $innerGroupField = $fieldNames['innerGroup'];
+      $valueField = $fieldNames['value'];
+      $name = $item[$nameField];
+      $aspect = $item[$aspectField];
       $group = $setGroups($item);
-      $nameProp = $propNames['name'];
-      $aspectProp = $propNames['aspect'];
-      $innerGroupProp = $propNames['innerGroup'];
-      $valueProp = $propNames['value'];
-      $name = $item[$nameProp];
-      $aspect = $item[$aspectProp];
 
       $this->groupsArray[$group][$name] ??= [
-        "$nameProp" => $name,
-        $innerGroupProp => [],
+        "$nameField" => $name,
+        $innerGroupField => [],
       ];
 
-      $this->groupsArray[$group][$name][$innerGroupProp][$aspect] = $item[$valueProp];
+      $this->groupsArray[$group][$name][$innerGroupField][$aspect] = $item[$valueField];
     }
   }
 
-  public function sortAggregatedProperties(string $field): void
+  public function sortAggregatedFields(string $field): void
   {
     foreach ($this->groupsArray as $group => $groupItems) {
       usort($groupItems, fn($a, $b) => strcmp($a[$field], $b[$field]));

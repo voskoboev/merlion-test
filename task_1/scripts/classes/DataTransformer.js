@@ -5,7 +5,7 @@ class DataTransformer {
     this.#initialData = initialData;
   }
 
-  getObjectToArrayTransformedData() {
+  getObjectToArrayTransformedData = () => {
     const array = [];
 
     for (const key in this.#initialData) {
@@ -13,7 +13,7 @@ class DataTransformer {
     }
 
     return array;
-  }
+  };
 }
 
-export default DataTransformer
+export default DataTransformer;

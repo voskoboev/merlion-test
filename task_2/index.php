@@ -16,11 +16,11 @@ $setAggregationGroupCallback = fn($p) => $p['archive'] ? 'archive' : 'notArchive
 
 $productsArrayTransformer = new Helpers\ArrayTransformer(Data\PRODUCTS);
 
-$productsArrayTransformer->aggregateItemsProperties(
+$productsArrayTransformer->aggregateItemsFields(
   AGGREGATION_PROP_NAMES,
   $setAggregationGroupCallback,
 );
-$productsArrayTransformer->sortAggregatedProperties(SORTING_FIELD);
+$productsArrayTransformer->sortAggregatedFields(SORTING_FIELD);
 $productsArrayTransformer->transformIntoFiltersArray(FILTERS_ARRAY);
 
 echo '<pre>';

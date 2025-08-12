@@ -9,7 +9,7 @@ class SelectManager extends EventTarget {
   #selectOutputCssClassSelector = ".select__output";
   #selectListOptionCssClassSelector = `.${this.#selectListOptionCssClass}`;
   #selectListCssClassSelector = `.${this.#selectListCssClass}`;
-  #selectOptionsListKeyDownEventKey = "Enter";
+  #selectKeyDownEventKey = "Enter";
   #select;
   #selectHeader;
   #selectOutput;
@@ -32,7 +32,7 @@ class SelectManager extends EventTarget {
       this.#selectOutputCssClassSelector
     );
 
-    this.#createSelect();
+    this.#createSelectList();
     this.#enableSelectOutput();
 
     this.#selectListOptions = this.#select.querySelectorAll(
@@ -62,7 +62,7 @@ class SelectManager extends EventTarget {
     this.#selectOutput.disabled = false;
   };
 
-  #createSelect = () => {
+  #createSelectList = () => {
     const selectListElement = document.createElement("div");
     selectListElement.id = this.#selectListCssId;
     selectListElement.classList.add(this.#selectListCssClass);
@@ -120,8 +120,8 @@ class SelectManager extends EventTarget {
 
   #toggleOptionsListOnKeyDown = (ev) => {
     if (
-      document.activeElement === this.#selectOutput &&
-      ev.key === this.#selectOptionsListKeyDownEventKey
+      document.activeElement !== this.#selectOutput &&
+      ev.key !== this.#selectKeyDownEventKey
     ) {
       ev.preventDefault();
       this.#toggleOptionsList();
@@ -147,7 +147,7 @@ class SelectManager extends EventTarget {
   };
 
   #chooseSpecificOptionOnKeyDown = (ev) => {
-    if (ev.key !== this.#selectOptionsListKeyDownEventKey) {
+    if (ev.key !== this.#selectKeyDownEventKey) {
       return;
     }
 
